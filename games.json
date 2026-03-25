@@ -1,9 +1,16 @@
 [
   {
-  "title": "suggest games in dms account: @blossom.g4mes",
-  "link": "#",
-  "image": "#",
-  "tags": ["announcement"],
-  "new": "2026-03-23"
+    "title": "suggest games in dms account: @blossom.g4mes",
+    "link": "#",
+    "image": "#",
+    "tags": ["announcement"],
+    "new": "2026-03-23"
+  },
+  {
+    "title": "Snake",
+    "link": "snake/index.html",
+    "image": "snake/cover.png",
+    "tags": ["arcade", "classic"],
+    "new": "2026-03-25"
   }
 ]
